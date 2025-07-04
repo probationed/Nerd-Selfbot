@@ -1,4 +1,5 @@
-![image-removebg-preview](https://github.com/user-attachments/assets/43e74698-fb84-475d-88d0-a3222637e8ed)
+![image-removebg-preview](https://github.com/user-attachments/assets/43e74698-fb84-475d-88d0-a3222637e8ed) ![longlongtime](https://github.com/user-attachments/assets/39d3d8ea-55c3-4555-8e1c-9e0f552b0f38)
+
 ## How Does It Work
 It works by listening for your typed commands (prefixed with a dot `.`) via websockets and responding instantly with helpful features, from memes and jokes to impersonation and server automation tools.
 

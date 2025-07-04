@@ -3,7 +3,7 @@
 
 ## Features
 Utility
-.help              Shows This Message
+`.help              Shows This Message
 .ping              Pong
 .latency           Returns Clients Latency
 .time              Clients Time
@@ -13,32 +13,32 @@ Utility
 .quote             Inspiring quote
 .joke              Dad joke
 .advice            Life advice
-.define <word>     Urban dictionary
+.define <word>     Urban dictionary`
 
 Image
-.cat, .dog, .duck, .meme
+`.cat, .dog, .duck, .meme`
  
 Fun
-.roll,         .coinflip
+`.roll,         .coinflip
 .8ball   <q>   .emojify <msg>
 .say     <msg> .saybold <msg>
-.reverse <t>   .mock    <msg>
+.reverse <t>   .mock    <msg>`
 
 Misc
-.pokemon <pokemon>, .timer <seconds>
+`.pokemon <pokemon>, .timer <seconds>`
 
 Impersonation
-.impersonate @user, .stopimpersonate
+`.impersonate @user, .stopimpersonate`
  
 NSFW (+18)
-```.nsfwwaifu, .nsfwneko, .nsfwtrap```
-```.nsfwblowjob, .nsfwrandom```
+`.nsfwwaifu, .nsfwneko, .nsfwtrap
+.nsfwblowjob, .nsfwrandom`
  
 Nuking (Use With Caution)
-.create x name      Create x channels
+`.create x name      Create x channels
 .send x msg         Spam message to all channels
 .delchannels        Delete all channels
 .webhook x msg      Create webhooks & Spam
 .delroles           Delete all roles
-.spamroles x        Create x spam roles
+.spamroles x        Create x spam roles`
 

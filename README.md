@@ -2,43 +2,54 @@
 ## How Does It Work
 
 ## Features
-Utility
-`.help              Shows This Message
-.ping              Pong
-.latency           Returns Clients Latency
-.time              Clients Time
-.repeat x msg      Sends x Amount Of Messages
-.clear x           Clears x Amount Of Messages
-.serverinfo        Returns Server Info
-.quote             Inspiring quote
-.joke              Dad joke
-.advice            Life advice
-.define <word>     Urban dictionary`
+|========[ 🛠️  Utility ]=========|
+| .help              | Shows this message             |
+| .ping              | Pong!                          |
+| .latency           | Shows client latency           |
+| .time              | Displays client time           |
+| .repeat x msg      | Sends x amount of messages     |
+| .clear x           | Clears x amount of messages    |
+| .serverinfo        | Returns server info            |
+| .quote             | Sends inspiring quote          |
+| .joke              | Sends dad joke                 |
+| .advice            | Sends random life advice       |
+| .define <word>     | Urban Dictionary definition    |
 
-Image
-`.cat, .dog, .duck, .meme`
- 
-Fun
-`.roll,         .coinflip
-.8ball   <q>   .emojify <msg>
-.say     <msg> .saybold <msg>
-.reverse <t>   .mock    <msg>`
+|========[ 🖼️  Image ]===========|
+| .cat               | Random cat image               |
+| .dog               | Random dog image               |
+| .duck              | Random duck image              |
+| .meme              | Sends a random meme            |
 
-Misc
-`.pokemon <pokemon>, .timer <seconds>`
+|========[ 🎉  Fun ]=============|
+| .roll              | Roll a dice                    |
+| .coinflip          | Flip a coin                    |
+| .8ball <q>         | Magic 8-Ball response          |
+| .emojify <msg>     | Emojifies your message         |
+| .say <msg>         | Repeats your message           |
+| .saybold <msg>     | Repeats message in bold        |
+| .reverse <text>    | Reverses the given text        |
+| .mock <msg>        | mOcKs YoUr MeSsAgE             |
 
-Impersonation
-`.impersonate @user, .stopimpersonate`
- 
-NSFW (+18)
-`.nsfwwaifu, .nsfwneko, .nsfwtrap
-.nsfwblowjob, .nsfwrandom`
- 
-Nuking (Use With Caution)
-`.create x name      Create x channels
-.send x msg         Spam message to all channels
-.delchannels        Delete all channels
-.webhook x msg      Create webhooks & Spam
-.delroles           Delete all roles
-.spamroles x        Create x spam roles`
+|========[ 🎲 Misc ]============|
+| .pokemon <name>    | Shows Pokémon info             |
+| .timer <seconds>   | Countdown timer                |
 
+|=======[ 🎭 Impersonation ]=====|
+| .impersonate @user | Start impersonating a user     |
+| .stopimpersonate   | Stop impersonation             |
+
+|=======[ 🔞 NSFW (18+) ]========|
+| .nsfwwaifu          | NSFW waifu image              |
+| .nsfwneko           | NSFW neko image               |
+| .nsfwtrap           | NSFW trap image               |
+| .nsfwblowjob        | NSFW blowjob image            |
+| .nsfwrandom         | Random NSFW content           |
+
+|=======[ 💣 Nuking (Caution) ]==|
+| .create x name      | Create x channels             |
+| .send x msg         | Spam message to all channels  |
+| .delchannels        | Delete all channels           |
+| .webhook x msg      | Create + spam webhooks        |
+| .delroles           | Delete all roles              |
+| .spamroles x        | Create x spam roles           |

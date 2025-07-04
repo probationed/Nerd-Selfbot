@@ -2,7 +2,7 @@
 ## How Does It Work
 
 ## Features
-[2;31mUtility[0m
+Utility
 .help              Shows This Message
 .ping              Pong
 .latency           Returns Clients Latency
@@ -15,29 +15,30 @@
 .advice            Life advice
 .define <word>     Urban dictionary
 
-[2;31mImage[0m
+Image
 .cat, .dog, .duck, .meme
  
-[2;31mFun[0m
+Fun
 .roll,         .coinflip
 .8ball   <q>   .emojify <msg>
 .say     <msg> .saybold <msg>
 .reverse <t>   .mock    <msg>
 
-[2;31mMisc[0m
+Misc
 .pokemon <pokemon>, .timer <seconds>
 
-[2;31mImpersonation[0m
+Impersonation
 .impersonate @user, .stopimpersonate
  
-[2;31mNSFW [0m[2;33m18+[0m
-.nsfwwaifu, .nsfwneko, .nsfwtrap
-.nsfwblowjob, .nsfwrandom
+NSFW (+18)
+```.nsfwwaifu, .nsfwneko, .nsfwtrap```
+```.nsfwblowjob, .nsfwrandom```
  
-[2;31mNuke[0m [2;33mUse With Caution[0m
+Nuking (Use With Caution)
 .create x name      Create x channels
 .send x msg         Spam message to all channels
 .delchannels        Delete all channels
 .webhook x msg      Create webhooks & Spam
 .delroles           Delete all roles
 .spamroles x        Create x spam roles
+

@@ -7,7 +7,7 @@ It works by listening for your typed commands (prefixed with a dot `.`) via webs
 ## 🛠️ Utility
 | Command            | Description                         |
 |--------------------|-------------------------------------|
-| `.help`            | Shows this message                  |
+| `.help`            | Shows a help message                |
 | `.ping`            | Pong!                               |
 | `.latency`         | Returns client latency              |
 | `.time`            | Displays client time                |
